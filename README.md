@@ -1,5 +1,5 @@
 ## (WeRateDogs-data-analysis)
-## by (Ahmed Muhammed)
+## by (Hauwa Musa Hameed)
 
 
 ## Dataset
